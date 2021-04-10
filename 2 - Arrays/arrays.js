@@ -28,13 +28,4 @@ for(let item of myArr){
 //adding element by sciping indexes, big o
 let y = 7;
 typeof y;
-function even(inputArr){
-    let res = 0;
-    array.forEach(element => {
-        if(element % 2 ==0){
-            res+=element;
-        }
-    });
-    console.log(res);
-}
-even([4,5,6,7,3,2,3,43,23232])
+arr[3.4] = "Oranges"
